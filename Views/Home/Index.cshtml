@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <div class="top">
+                <h5 style="color: blue;">Fullness: <span style="color: red;">@ViewBag.FullCount</span> 
+                    Happiness: <span style="color: red;">@ViewBag.HappyCount</span> 
+                    Meals: <span style="color: red;">@ViewBag.MealCount</span> 
+                    Energy: <span style="color: red;">@ViewBag.EnergyCount</span> 
+                </h5>
+            </div>
+            <div class="middle">
+                <img src="~/images/@ViewBag.Image" alt="aggretsuko" style="width: 550px;">
+                <h5><span style="color: blue">@TempData["message"]</span></h5><br>
+            </div>
+            <div class="bottom">
+                <form action="Feed" method="post"><input type="submit" value="Feed"></form>
+                <form action="Play" method="post"><input type="submit" value="Play"></form>
+                <form action="Work" method="post"><input type="submit" value="Work"></form>
+                <form action="Sleep" method="post"><input type="submit" value="Sleep"></form>
+                <p><a href="/reset">Restart?</a></p>
+            </div>
+        </div>
+    </body>
+</html>

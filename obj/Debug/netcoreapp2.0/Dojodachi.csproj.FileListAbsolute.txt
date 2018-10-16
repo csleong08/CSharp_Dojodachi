@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.pdb
